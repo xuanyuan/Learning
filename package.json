@@ -1,0 +1,25 @@
+{
+  "name": "learning",
+  "version": "1.0.0",
+  "description": "",
+  "main": "NodeSpider.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xuanyuan/Learning.git"
+  },
+  "author": "z_dianjun@163.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xuanyuan/Learning/issues"
+  },
+  "homepage": "https://github.com/xuanyuan/Learning#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "iconv-lite": "^0.4.19",
+    "jquery": "^3.2.1",
+    "request": "^2.83.0"
+  }
+}
